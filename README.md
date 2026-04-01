@@ -1,12 +1,12 @@
 # GNC • CTA • FIUNLP
 
 Equipo de ingeniería enfocado en:
-- Guidance, Navigation and Control
+- Guiado, Navegación y Control
 - Desarrollo de simuladores
 - Sistemas aeroespaciales
 
 ## Proyectos
-- Simulador VTOL 6DOF
+- Subsistema de GNC para Lanzador suborbital
 - ADCS para CubeSat
 
 ## Áreas
